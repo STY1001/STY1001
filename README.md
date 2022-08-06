@@ -7,4 +7,4 @@
 #### ⌨️ My prefered dev language is C#
 
 ### ℹ️ My stats:
-![STY1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,000000,000000,000000,FF0000,000000,000000,FF0000)
+![STY1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000)
