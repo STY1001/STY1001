@@ -4,7 +4,7 @@
 ### 🌍 [My Website: sty1001.wordpress.com (in French)](https://sty1001.wordpress.com/) 
 
 #### 👋 Hi, I'm STY1001 and I'm 16 years old
-#### ⌚ The most of my free time, I'm on my computer💻 to develop software💾, customize🛠️ some things💻📱💾 or play games🕹️ (Minecraft, Roblox, OSU! and more)   
+#### ⌚ The most of my free time, I'm on my computer💻 to develop software💾, customize🛠️ some things💻📱💾 or play games🕹️ (Minecraft, Roblox, OSU!, Genshin Impact and more)   
 #### 🛠️ My biggest project is Unowhy Tools
 #### ⌨️ My prefered dev language is C#
 
