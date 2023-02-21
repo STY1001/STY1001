@@ -14,7 +14,7 @@
 ![STY1001's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&card_width=400&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000&card_height=10&Reload)
 
 ### ℹ️ Status:
-![STY1001's Status](https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true)
+![STY1001's Status](https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true)
 ![STY1001's Status](https://lanyard.cnrad.dev/api/1028607912320442410?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true)
 
 ### Do you see that, I will add 1 to this counter
