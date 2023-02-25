@@ -1,4 +1,4 @@
-![100% made by STY1001](https://sty1001.files.wordpress.com/2022/09/sty-background-v7-.png)
+![100% made by STY1001](https://sty1001.cf/wp-content/uploads/2023/02/STY-Background-V8.png)
 
 ## ℹ️💻 About STY1001.exe
 ### 🌍 [My Website: sty1001.cf (in French)](https://sty1001.cf/) 
