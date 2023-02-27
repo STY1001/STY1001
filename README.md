@@ -1,4 +1,4 @@
-![100% made by STY1001](https://sty1001.cf/wp-content/uploads/2023/02/STY-Background-V8.png)
+![STY Background V8](https://user-images.githubusercontent.com/57889852/221605975-73fef966-8422-4d46-8128-a5a00e0e2014.png)
 
 ## ℹ️💻 About STY1001.exe
 ### 🌍 [My Website: sty1001.cf (in French)](https://sty1001.cf/) 
