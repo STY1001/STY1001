@@ -1,4 +1,4 @@
-![STY Background V8](https://user-images.githubusercontent.com/57889852/221605975-73fef966-8422-4d46-8128-a5a00e0e2014.png)
+![STY Background V8 Gihub Edition](https://user-images.githubusercontent.com/57889852/221606812-c84e9fc2-8fd5-44cf-8937-faba8898f783.png)
 
 ## ℹ️💻 About STY1001.exe
 ### 🌍 [My Website: sty1001.cf (in French)](https://sty1001.cf/) 
