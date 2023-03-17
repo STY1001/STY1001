@@ -1,7 +1,7 @@
 ![STY Background V8 Gihub Edition](https://user-images.githubusercontent.com/57889852/221606812-c84e9fc2-8fd5-44cf-8937-faba8898f783.png)
 
 ## ℹ️💻 About STY1001.exe
-### 🌍 [My Website: sty1001.cf (in French)](https://sty1001.cf/) (Down, thanks Freenom)
+### 🌍 [My Website: sty1001.fr (in French)](https://sty1001.fr/)
 
 #### 👋 Hi, I'm STY1001 and I'm 16 years old
 #### ⌚ The most of my free time, I'm on my computer💻 to develop software💾, customize🛠️ some things💻📱💾 or play games🕹️ (Minecraft, Roblox, OSU!, Genshin Impact and more)   
