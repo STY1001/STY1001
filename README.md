@@ -9,7 +9,7 @@
 #### ⌨️ My prefered dev language is C# (and XAML btw)
 
 ### ℹ️ My stats:
-![STY1001's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
+![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 ![STY1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000&card_width=450&Reload)
 ![STY1001's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&card_width=400&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000&card_height=10&Reload)
 
