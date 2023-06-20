@@ -1,6 +1,6 @@
 ![STY Background V8 Gihub Edition](https://user-images.githubusercontent.com/57889852/221606812-c84e9fc2-8fd5-44cf-8937-faba8898f783.png)
 
-## ℹ️💻 About STY1001.exe
+##💻 STY1001.exe
 ### 🌍 [My Website: STY1001.fr (in French)](https://sty1001.fr/)
 
 #### 👋 Hi, I'm STY1001 and I'm 16 years old
@@ -10,8 +10,8 @@
 
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
-<h3><img align=center src="https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000"/>
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000"/></h3>
+<h3><img align=left src="https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000"/>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000"/></h3>
 
 ### ℹ️ Status:
 ![STY1001's Status](https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true)
