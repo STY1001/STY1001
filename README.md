@@ -1,6 +1,6 @@
 ![STY Background V8 Gihub Edition](https://user-images.githubusercontent.com/57889852/221606812-c84e9fc2-8fd5-44cf-8937-faba8898f783.png)
 
-##💻 STY1001.exe
+## 💻 STY1001.exe
 ### 🌍 [My Website: STY1001.fr (in French)](https://sty1001.fr/)
 
 #### 👋 Hi, I'm STY1001 and I'm 16 years old
