@@ -8,19 +8,19 @@
 
 👋 Hi, I'm STY1001 and I'm 17 years old, I'm a French student (with Turkish origin) who stay on his PC the most of the time
 
-🤔 What I'm do? :
-- Dev
-- Hardware and Software modification and customization
-- DIY project
-- Repair of electronic device
-- Rarely play some games (Minecraft, OSU!, and more)
+- 🤔 What I'm do? :
+   - Dev
+   - Hardware and Software modification and customization
+   - DIY project
+   - Repair of electronic device
+   - Rarely play some games (Minecraft, OSU!, and more)
 
-🛠️ Biggest project : 
-- [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
+- 🛠️ Biggest project : 
+   - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
 
-⌨️ Favorite dev languages:
-- C#
-- XAML
+- ⌨️ Favorite dev languages:
+   - C#
+   - XAML
 
 ### -=-
 
