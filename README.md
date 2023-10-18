@@ -4,10 +4,13 @@
 ## 💻 STY1001.exe
 ### 🌍 [My Website: STY1001.fr (in French)](https://sty1001.fr/)
 
-#### 👋 Hi, I'm STY1001 and I'm 17 years old
-#### ⌚ The most of my free time, I'm on my computer💻 to develop software💾, customize🛠️ some things💻📱 or play games🕹️ (Minecraft, Roblox, OSU! and more)   
-#### 🛠️ My biggest project is Unowhy Tools
-#### ⌨️ My prefered dev language is C# (and XAML btw)
+👋 Hi, I'm STY1001 and I'm 17 years old
+
+⌚ The most of my free time, I'm on my computer💻 to develop software💾, customize🛠️ some things💻📱 or play games🕹️ (Minecraft, Roblox, OSU! and more)   
+
+🛠️ My biggest project is Unowhy Tools
+
+⌨️ My prefered dev language is C# (and XAML btw)
 
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
