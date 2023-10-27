@@ -1,4 +1,4 @@
-![STY Background V9 Github edition](https://github.com/STY1001/STY1001/assets/57889852/68c8e573-9d8d-4d8d-8bee-43b654287af5)
+![STY Background V10 1 Github, made by me](https://github.com/STY1001/STY1001/assets/57889852/e5339d6b-7ac4-4443-8e7e-f33036a5c196)
 
 ## 💻 About STY1001.exe
 🌍 [My Website: STY1001.fr (in French)](https://sty1001.fr/)
