@@ -8,7 +8,7 @@
 👋 Hi, I'm STY1001 and I'm 17 years old, I'm a French student (with Turkish origin) who stay on his PC the most of the time
 
 - 🤔 What I'm do? :
-   - Dev
+   - Dev (Full stack)
    - Hardware and Software modification and customization
    - DIY project
    - Repair of electronic device
@@ -18,8 +18,8 @@
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
 
 - ⌨️ Favorite dev languages:
-   - C#
-   - XAML
+   - C# (Back end)
+   - XAML (Front end)
 
 ### -=-
 
