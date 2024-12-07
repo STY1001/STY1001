@@ -1,18 +1,21 @@
-![STY Background V10 1 Github, made by me](https://github.com/STY1001/STY1001/assets/57889852/e5339d6b-7ac4-4443-8e7e-f33036a5c196)
+<h1 style="display: flex; justify-content: space-between;">
+  <div>
+     <span align="left">💻&nbsp;&nbsp;About STY1001.exe</span>
+  </div>
+</h1>
 
-## 💻 About STY1001.exe
+![STY Background V10 1 Github, made by me](https://github.com/STY1001/STY1001/assets/57889852/e5339d6b-7ac4-4443-8e7e-f33036a5c196)
+##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
-### -=-
-
-👋 Hi, I'm STY1001 and I'm 18 years old, I'm a French student who stay on his PC the most of the time
+### 👋 Hi, I'm STY1001 and I'm 18 years old, I'm a French student who stay on his PC the most of the time. I use Windows btw
 
 - 🤔 What I'm do? :
-   - Dev (Full stack)
-   - Hardware and Software modification and customization
+   - Full stack dev
+   - Hardware and Software exploration and customization
    - DIY project
    - Repair of electronic device
-   - Rarely play some games (Minecraft, OSU!, and more)
+   - Rarely play some games (Minecraft, OSU!, Cities Skylines, Teardown, etc...)
 
 - 🛠️ Biggest project : 
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
@@ -21,18 +24,25 @@
    - C# (Back end)
    - XAML (Front end)
 
-### -=-
-
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
-<h3><img src="https://github-readme-stats.vercel.app/api?username=STY1001&hide=contribs,issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000&reload"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000&reload"/></h3>
+<div align="center" dir="auto">
+   <img style="height: auto; width: 59%;" src="https://github-readme-stats.vercel.app/api?username=STY1001&hide=issues&count_private=true&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,000000,500000&reload"/>
+   <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=STY1001&show_icons=true&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=35,500000,000000&reload"/>
+</div>
 
-### -=-
+### 🏆 Sucess:
+<div align="center" dir="auto">
+   <img src="https://github-profile-trophy.vercel.app/?username=STY1001&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
 ### ℹ️ Status:
-![STY1001's Status](https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true)
-![STY1001's Status](https://lanyard.cnrad.dev/api/1028607912320442410?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true)
+<div align="center" dir="auto">
+   <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/1028607912320442410?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true"/>
+   <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true"/>
+</div>
 
-### Do you see that, I will add 1 to this counter
+### If you see this counter, I will increase it by one
 ![View](https://profile-counter.glitch.me/STY1001/count.svg)
+##### New counter:
+![View](https://visitcount.itsvg.in/api?id=STY1001&label=Profile%20Views&color=4&icon=0&pretty=false)
