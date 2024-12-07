@@ -20,9 +20,13 @@
 - 🛠️ Biggest project : 
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
 
-- ⌨️ Favorite dev languages:
+- ❤️ Favorite dev languages:
    - C# (Back end)
    - XAML (Front end)
+   - Cat (Animal)
+
+- ⌨️ What dev languages I know:
+   - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic (I forgot), C/C++ (with Arduino)
 
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
