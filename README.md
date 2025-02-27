@@ -8,7 +8,7 @@
 ##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
-### 👋 Hi, I'm STY1001 and I'm 18 years old, I'm a French student who stay on his PC the most of the time. I use Windows btw
+### 👋 Hi, I'm STY1001 and I'm 18 years old, I'm a French student who stay on his PC the most of the time.
 
 - 🤔 What I'm do? :
    - Full stack dev
