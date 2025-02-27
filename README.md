@@ -31,6 +31,8 @@
 - 🧠 Skills:
    - Windows Server, Apache, Node.JS, Docker, WordPress, Nuxt.JS, Vue.JS, Nuxt.JS, Photoshop, Blender and more
 
+- 💻 I use Windows btw
+
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 <div align="center" dir="auto">
