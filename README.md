@@ -53,5 +53,3 @@
 
 ### If you see this counter, I will increase it by one
 ![View](https://profile-counter.glitch.me/STY1001/count.svg)
-##### New counter:
-![View](https://visitcount.itsvg.in/api?id=STY1001&label=Profile%20Views&color=4&icon=0&pretty=false)
