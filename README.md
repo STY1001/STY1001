@@ -10,7 +10,7 @@
 
 ### 👋 Hi, I'm STY1001 and I'm 18 years old, I'm a French student who stay on his PC the most of the time.
 
-- 🤔 What I'm do? :
+- 🤔 What I do? :
    - Full stack dev
    - Hardware and Software exploration and customization
    - DIY project
