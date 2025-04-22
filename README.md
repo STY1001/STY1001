@@ -26,7 +26,7 @@
    - Cat (Animal)
 
 - ⌨️ What dev languages I know:
-   - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic (I forgot), C/C++ (with Arduino)
+   - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic, C/C++ (with Arduino)
      
 - 🧠 Skills:
    - Windows Server, Apache, Node.JS, Docker, WordPress, Nuxt.JS, Vue.JS, Nuxt.JS, Photoshop, Blender and more
