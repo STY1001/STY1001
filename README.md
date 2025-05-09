@@ -17,13 +17,15 @@
    - Repair of electronic device
    - Rarely play some games (Minecraft, OSU!, Cities Skylines, Teardown, etc...)
 
-- 🛠️ Biggest project : 
+- 🛠️ Biggest projects : 
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
+   - [WinDeskClock](https://github.com/STY1001/WinDeskClock)
 
 - ❤️ Favorite dev languages:
    - C# (Back end)
    - XAML (Front end)
    - Cat (Animal)
+   - [Ulysse](https://github.com/Ulysse2211) (Wait... what?!?)
 
 - ⌨️ What dev languages I know:
    - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic, C, TypeScript
