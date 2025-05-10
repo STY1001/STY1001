@@ -31,7 +31,7 @@
    - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic, C, TypeScript
      
 - 🧠 Skills:
-   - Windows Server, Apache, Node.JS, Docker, WordPress, Nuxt.JS, Vue.JS, Nuxt.JS, Photoshop, Blender and more
+   - Windows Server, Apache, Docker, WordPress, Node.JS, Vue.JS, Nuxt.JS, Photoshop, Blender, Hyper-V and more...
 
 - 💻 I use Windows btw
 
