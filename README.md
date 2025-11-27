@@ -25,7 +25,6 @@
    - C# (Back end)
    - XAML (Front end)
    - Cat (Animal)
-   - [Ulysse](https://github.com/Ulysse2211) (Wait... what?!?)
 
 - ⌨️ What dev languages I know:
    - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic, C, TypeScript
@@ -52,6 +51,3 @@
    <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/1028607912320442410?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true"/>
    <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true"/>
 </div>
-
-### If you see this counter, I will increase it by one
-![View](https://profile-counter.glitch.me/STY1001/count.svg)
