@@ -4,7 +4,8 @@
   </div>
 </h1>
 
-![STY Background V11 Transparent, 100% made by me](https://github.com/user-attachments/assets/f557defd-f29c-479d-9736-f8b3a0a360f7)
+![STY Background V11.1, 100% made by me](https://github.com/user-attachments/assets/9ce9505c-b6ba-43bf-a194-49478435585b)
+
 ##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
