@@ -4,7 +4,7 @@
   </div>
 </h1>
 
-[Banner](https://github.com/user-attachments/assets/b8d4d991-1619-4b87-aa62-69fb21d27d92)
+![Banner](https://github.com/user-attachments/assets/b8d4d991-1619-4b87-aa62-69fb21d27d92)
 
 ##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
