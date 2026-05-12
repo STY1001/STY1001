@@ -52,3 +52,6 @@
    <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/1028607912320442410?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true"/>
    <img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/605079676917907457?idleMessage=Idle%20or%20AFK%20(Old%20account)&bg=000000&borderRadius=5px&animated=true"/>
 </div>
+
+### View count:
+![View](https://count.getloli.com/@STY1001?name=STY1001&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
