@@ -9,7 +9,7 @@
 ##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
-### 👋 Hi, I'm STY1001 and I'm 19 years old, I'm a French student who stay on his PC the most of the time.
+### 👋 Hi, I'm STY1001 and I'm 20 years old, I'm a French student who stay on his PC the most of the time.
 
 - 🤔 What I do? :
    - Full stack dev
@@ -28,10 +28,10 @@
    - Cat (Animal)
 
 - ⌨️ What dev languages I know:
-   - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, VisualBasic, C, TypeScript
+   - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, C, TypeScript, Rust, Java
      
 - 🧠 Skills:
-   - Windows Server, Apache, Docker, WordPress, Node.JS, Vue.JS, Nuxt.JS, Photoshop, Blender, Hyper-V and more...
+   - Windows Server, Linux, Apache, Docker, WordPress, Node.JS, Vue.JS, Nuxt.JS, Photoshop, Blender, Hyper-V and more...
 
 - 💻 I use Windows btw
 
