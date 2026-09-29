@@ -6,17 +6,17 @@
 
 ![Banner](https://github.com/user-attachments/assets/b8d4d991-1619-4b87-aa62-69fb21d27d92)
 
-##
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
-### 👋 Hi, I'm STY1001 and I'm 20 years old, I'm a French student who stay on his PC the most of the time.
+### 👋 Hi, I'm a 20-year-old French student who spends way too much time on his PC. I enjoy building things, breaking things, and figuring out how things work.
 
-- 🤔 What I do? :
-   - Full stack dev
-   - Hardware and Software exploration and customization
-   - DIY project
-   - Repair of electronic device
-   - Rarely play some games (Minecraft, OSU!, Cities Skylines, Teardown, etc...)
+- 🤔 What am I doing ?
+  - Full-stack development
+  - UI/UX design
+  - Managing a home lab
+  - Hardware and software reverse engineering and hacking
+  - Repairing electronics and making things (3D printing, etc.)
+  - Playing games (mostly Minecraft, but I've played other games at some point)
 
 - 🛠️ Biggest projects : 
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
@@ -27,7 +27,7 @@
    - XAML (Front end)
    - Cat (Animal)
 
-- ⌨️ What dev languages I know:
+- ⌨️ Dev languages I know:
    - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, C, TypeScript, Rust, Java
      
 - 🧠 Skills:
