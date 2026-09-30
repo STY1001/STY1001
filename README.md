@@ -16,22 +16,17 @@
   - Hardware and software reverse engineering and hacking
   - Repairing electronics and making things (3D printing, etc.)
   - Playing games (mostly Minecraft, but I've played other games at some point)
-
 - 🛠️ Biggest projects : 
    - [Unowhy Tools](https://github.com/STY1001/Unowhy-Tools)
    - [WinDeskClock](https://github.com/STY1001/WinDeskClock)
-
 - ❤️ Favorite dev languages:
    - C# (Back end)
    - XAML (Front end)
    - Cat (Animal)
-
 - ⌨️ Dev languages I know:
    - C#, XAML, HTML, CSS, JavaScript, Python, PowerShell, C, TypeScript, Rust, Java
-     
 - 🧠 Skills:
    - Windows Server, Linux, Apache, Docker, WordPress, Node.JS, Vue.JS, Nuxt.JS, Photoshop, Blender, Hyper-V and more...
-
 - 💻 I use Windows btw
 
 ### 💸 Support me:
