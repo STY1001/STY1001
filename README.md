@@ -9,7 +9,6 @@
 🌍 [My Website: STY1001.com (in French)](https://sty1001.com/)
 
 ### 👋 Hi, I'm a 20-year-old French student who spends way too much time on his PC. I enjoy building things, breaking things, and figuring out how things work.
-
 - 🤔 What am I doing ?
   - Full-stack development
   - UI/UX design
@@ -34,6 +33,10 @@
    - Windows Server, Linux, Apache, Docker, WordPress, Node.JS, Vue.JS, Nuxt.JS, Photoshop, Blender, Hyper-V and more...
 
 - 💻 I use Windows btw
+
+### 💸 Support me:
+- XMR: 875s6B12rg67p75n9UHnC6Gwenjd44cmpEEGwerUvxfEMyxEoAdGrBbUphuKE9fVDm54x3H3WetJHc6R8DHrgXyiHAMoj5c
+- BTC: bc1qshlheq4y8pnlw20n0agtcxlsw7un9ar4fxmfay
 
 ### ℹ️ My stats:
 ![STY1001's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STY1001&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
